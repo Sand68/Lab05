@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Rk3BnQeUIvVWENfpW10y7dyXMmjKrFAIO9+lRNhzSdM=",
+  "Source": "Lab05",
+  "BasePath": "_content/Lab05",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab05\\wwwroot",
+      "Source": "Lab05",
+      "ContentRoot": "C:\\Users\\KESHAV SANDHU\\source\\repos\\Lab05\\Lab05\\wwwroot\\",
+      "BasePath": "_content/Lab05",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\KESHAV SANDHU\\source\\repos\\Lab05\\Lab05\\wwwroot\\StyleSheet.css",
+      "SourceId": "Lab05",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KESHAV SANDHU\\source\\repos\\Lab05\\Lab05\\wwwroot\\",
+      "BasePath": "_content/Lab05",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
